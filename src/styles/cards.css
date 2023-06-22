@@ -1,0 +1,51 @@
+.card-container {
+    display: flex;
+    height: 168px;
+    width: 100%;
+    margin-block: 2rem;
+    font-family: 'Inter', sans-serif;
+}
+
+.google-link {
+    font-size: 10.2px;
+    color: #918E9B;
+    text-decoration: underline;
+}
+
+.card-pic {
+    display: flex;
+    flex-grow: 2;
+}
+
+.card-img {
+    height: 168px;
+    border-radius: 5px;
+}
+
+.card-description {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 3;
+}
+
+.location-container {
+    display: flex;
+    
+    align-items: center;
+
+}
+
+.country {
+    font-size: 10.2px;
+    letter-spacing: 17%;
+}
+
+.travel-dates {
+    display: flex;
+}
+
+.card-impression {
+    font-size: 10.2px;
+}
+
+
