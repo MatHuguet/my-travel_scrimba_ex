@@ -1,9 +1,9 @@
 .card-container {
     display: flex;
-    height: 168px;
+    height: 100%;
     width: 100%;
-    margin-block: 2rem;
     font-family: 'Inter', sans-serif;
+    padding: .6rem 1.2rem;
 }
 
 .google-link {
@@ -26,6 +26,7 @@
     display: flex;
     flex-direction: column;
     flex-grow: 3;
+    padding: .6rem;
 }
 
 .location-container {
@@ -37,15 +38,35 @@
 
 .country {
     font-size: 10.2px;
-    letter-spacing: 17%;
+    letter-spacing: 0.7px;
+    font-weight: normal;
+    padding-left: .2rem;
+    padding-right: .5rem;
 }
 
 .travel-dates {
     display: flex;
+    font-size: 10.2px;
+    font-weight: bold;
+    margin-block: 0 .4rem;
 }
 
 .card-impression {
     font-size: 10.2px;
+    line-height: 150%;
+    
 }
+
+.card-title {
+    margin-bottom: .6rem;
+}
+
+.title {
+    font-family: 'Inter', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
 
 
