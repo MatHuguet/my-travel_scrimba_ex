@@ -30,26 +30,6 @@ export default [
         travelDate: "23 Jan, 2020",
         backDate: "02 Fev, 2020",
         impressionText: "Le Teide est la troisième structure volcanique la plus haute et volumineuse de la planète, derrière le Mauna loa et Mauna kea à Hawaï, et le plus haut sommet des îles Canaries et de toute l'Espagne."
-    },
-    {
-        id: 2,
-        country: "TENERIFE",
-        title: "El Teide",
-        imgName: "hert-niks-S7QZcYLJJsA-unsplash.jpg",
-        linkGooglemap: "https://www.google.com/maps/place/Tenerife/@28.2810409,-17.1481727,9z/data=!4m6!3m5!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!8m2!3d28.2915637!4d-16.6291304!16zL20vMDFucWIx?entry=ttu",
-        travelDate: "23 Jan, 2020",
-        backDate: "02 Fev, 2020",
-        impressionText: "Le Teide est la troisième structure volcanique la plus haute et volumineuse de la planète, derrière le Mauna loa et Mauna kea à Hawaï, et le plus haut sommet des îles Canaries et de toute l'Espagne."
-    },
-    {
-        id: 2,
-        country: "TENERIFE",
-        title: "El Teide",
-        imgName: "hert-niks-S7QZcYLJJsA-unsplash.jpg",
-        linkGooglemap: "https://www.google.com/maps/place/Tenerife/@28.2810409,-17.1481727,9z/data=!4m6!3m5!1s0xc4029effe8682ed:0xb01a4bf1c84baf3c!8m2!3d28.2915637!4d-16.6291304!16zL20vMDFucWIx?entry=ttu",
-        travelDate: "23 Jan, 2020",
-        backDate: "02 Fev, 2020",
-        impressionText: "Le Teide est la troisième structure volcanique la plus haute et volumineuse de la planète, derrière le Mauna loa et Mauna kea à Hawaï, et le plus haut sommet des îles Canaries et de toute l'Espagne."
     }
     
 ]
